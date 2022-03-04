@@ -2,4 +2,4 @@
 
 ## Description
 
-GitHub fof dummies
+GitHub for dummies
